@@ -1,0 +1,36 @@
+.controller_container {
+  background-color: rgb(52, 68, 81);
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.controller_heading {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+.ul_inputs_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkboxes {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.labels {
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+li {
+  list-style-type: none;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
